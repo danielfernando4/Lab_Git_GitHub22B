@@ -13,6 +13,7 @@ int main(){
     
 
     while (salida != 0){
+        cout<<"bienvenido al sistema"<<endl;
         cout<<"digite un numero: "<<endl;
         cin>>numero1;
         cout<<"digite otro numero: "<<endl;
@@ -39,6 +40,9 @@ int main(){
         cout<<"para salir del sistema presione 0, caso contrario presione otro numero";
         cin>>salida;
         cout<<endl;
+        if(salida == 0){
+            cout<<"gracias por usar el sistema"<<endl;
+        }
     }
 
     
