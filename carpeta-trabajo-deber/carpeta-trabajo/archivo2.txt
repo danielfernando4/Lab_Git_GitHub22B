@@ -1,0 +1,2 @@
+uso del codigo c++ para hacer una calculadora
+uso de git para hacer modificaciones
